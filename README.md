@@ -1,69 +1,54 @@
 # Hi, I'm Hema Sri Perumalla 👋
-
-### **AI/ML Engineer | LLMs | MLOps | Cloud (AWS/GCP)**
-I build machine learning systems, deploy production-ready pipelines, and develop LLM/RAG-based intelligent applications. My experience spans fraud detection, healthcare predictive analytics, and enterprise-grade AI solutions.
+### **AI/ML Engineer | LLMs & Agentic Systems | MLOps | Cloud (AWS/GCP)**
+I build production ML/AI systems — from fraud-detection pipelines to LLM-powered agents — spanning banking, healthcare, and data engineering.
 
 ---
 
 ## 🚀 **About Me**
-- AI/ML Engineer with 3 years of hands-on experience in banking & healthcare
-- Skilled in building **end-to-end ML pipelines**, deploying models to AWS, and tuning deep learning/LLM systems
-- Experienced with **PyTorch, TensorFlow, Scikit‑learn, Hugging Face, LangChain, and RAG architectures**
-- Passionate about MLOps, LLMs, and scalable cloud architectures
-- Currently completing MS in Computer Science (May 2025)
+- AI/ML Engineer with 4+ years of hands-on experience in banking & healthcare (Truist Bank, Kellton Tech)
+- Built and deployed production fraud-detection ML pipelines and agentic RAG systems on AWS Bedrock/SageMaker
+- Skilled in **LangChain, LangGraph, Model Context Protocol (MCP), RAG architectures, dbt, and full ML lifecycle ownership**
+- Passionate about AI system evaluation, grounding, and reliability — not just building agents, but proving they're correct
+- M.S. in Computer Science, University of Central Missouri
 
 ---
 
 ## 🔥 **Featured Projects**
 
-### 📌 **1. Fraud Detection ML Pipeline (Banking)**
-End-to-end pipeline using PyTorch/Sklearn + AWS SageMaker. Includes:
-- Feature engineering, ETL (Airflow/Glue), Snowflake integration
-- Model retraining + MLflow versioning
-- Drift monitoring + Power BI dashboards
+### 📌 **1. AI FinOps Copilot**
+A full-stack natural-language BI agent: dbt-modeled warehouse → governed MCP tools → LangGraph agent (Claude) → Streamlit UI, with automated reporting via n8n.
+- 32 automated dbt data quality tests; eval harness scoring 8/8 (100%) accuracy
+- Caught and fixed a real ungrounded-inference failure via an explicit grounding guardrail
+🔗 [github.com/Hemasri20/ai-finops-copilot](https://github.com/Hemasri20/ai-finops-copilot)
 
-🔗 *Repo Coming Soon*
+### 📌 **2. Agentic LLM Evaluation Harness**
+Benchmarks a LangGraph RAG pipeline head-to-head across 3 current-generation models (Claude Haiku 4.5, Sonnet 5, Opus 5).
+- LLM-judge scoring rubric with per-call latency/cost capture, visualized in Streamlit
+- All 3 models reached a perfect 5/5 score across an 8-question reference set, for ~$0.10 total spend
+🔗 [github.com/Hemasri20/agent-eval-harness](https://github.com/Hemasri20/agent-eval-harness)
 
----
-
-### 📌 **2. Healthcare Patient Risk Prediction (DL + NLP)**
-TensorFlow/Keras deep-learning model for predicting patient risk.
-- PySpark preprocessing of 20M+ EHR records
-- BERT-based clinical NLP pipeline
-- Flask API + ECS deployment + CloudWatch monitoring
-
-🔗 *Repo Coming Soon*
-
----
-
-### 📌 **3. LLM Fine-Tuning + RAG Chatbot**
-Domain‑specific chatbot using:
-- HuggingFace Transformers
-- FAISS vector search
-- LangChain agents
-- Streamlit front‑end
-
-🔗 *Repo Coming Soon*
+### 📌 **3. Fraud Anomaly Detector**
+Isolation Forest anomaly-detection model for rare-event/imbalanced fraud data, with a Streamlit interface.
+🔗 [github.com/Hemasri20/fraud-anomaly-detector](https://github.com/Hemasri20/fraud-anomaly-detector)
 
 ---
 
 ## 🛠️ **Tech Stack**
-**Languages:** Python, SQL, R, Java, Scala  
-**ML/DL:** PyTorch, TensorFlow, Keras, Scikit‑learn, XGBoost  
-**NLP/LLM:** Transformers, BERT, GPT, LangChain, RAG  
-**Data Engineering:** Pandas, NumPy, PySpark, Airflow, Kafka  
-**MLOps:** MLflow, Docker, Kubernetes, SageMaker, GitHub Actions, Jenkins  
-**Cloud:** AWS (S3, Lambda, ECS, Glue, SageMaker), GCP  
-**Databases:** Snowflake, PostgreSQL, MongoDB, Redshift  
-**Visualization:** Power BI, Tableau, Matplotlib
+**Languages:** Python, SQL, R, Java, Scala
+**LLM/Agentic:** LangChain, LangGraph, Model Context Protocol (MCP), RAG, AWS Bedrock, Claude & OpenAI APIs, Hugging Face/BERT
+**ML/DL:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost
+**Data Engineering:** dbt, Pandas, NumPy, PySpark, Airflow, Kafka
+**MLOps:** MLflow, Docker, Kubernetes, SageMaker, Terraform, CI/CD
+**Cloud:** AWS (S3, Lambda, ECS, Glue, SageMaker, Textract), Azure AI, GCP
+**Databases:** Snowflake, PostgreSQL, MongoDB, Redshift, DuckDB
+**Visualization:** Power BI, Tableau, Streamlit
 
 ---
 
 ## 📬 **Connect With Me**
 - **Email:** hemap0420@gmail.com
-- **LinkedIn:** https://linkedin.com/in/hema-perumalla-27991237a
+- **LinkedIn:** [linkedin.com/in/hema-perumalla-27991237a](https://linkedin.com/in/hema-perumalla-27991237a)
 
 ---
-
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects or reach out for collaboration.*
 
