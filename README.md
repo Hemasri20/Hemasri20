@@ -5,7 +5,7 @@ I build production ML/AI systems — from fraud-detection pipelines to LLM-power
 ---
 
 ## 🚀 **About Me**
-- AI/ML Engineer with 4+ years of hands-on experience in banking & healthcare (Truist Bank, Kellton Tech)
+- AI/ML Engineer with 3+ years of hands-on experience in banking & healthcare (Truist Bank, Kellton Tech)
 - Built and deployed production fraud-detection ML pipelines and agentic RAG systems on AWS Bedrock/SageMaker
 - Skilled in **LangChain, LangGraph, Model Context Protocol (MCP), RAG architectures, dbt, and full ML lifecycle ownership**
 - Passionate about AI system evaluation, grounding, and reliability — not just building agents, but proving they're correct
@@ -47,7 +47,6 @@ Isolation Forest anomaly-detection model for rare-event/imbalanced fraud data, w
 
 ## 📬 **Connect With Me**
 - **Email:** hemap0420@gmail.com
-- **LinkedIn:** [linkedin.com/in/hema-perumalla-27991237a](https://linkedin.com/in/hema-perumalla-27991237a)
 
 ---
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects or reach out for collaboration.*
